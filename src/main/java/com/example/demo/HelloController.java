@@ -8,6 +8,6 @@ public class HelloController {
     
     @GetMapping("/")
     public String home() {
-        return "Hello Hi YunieYunie!!!!!, git webhook";
+        return "Hello Hi YunieYunie!!!!!, git webhook2";
     }
 }
